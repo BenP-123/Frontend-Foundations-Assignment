@@ -138,6 +138,7 @@ footer p {
 
  .group{
   flex-direction: row;
+  flex-wrap: wrap;
  }
  
  .aboutSection {
